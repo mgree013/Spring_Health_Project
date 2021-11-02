@@ -1,12 +1,12 @@
 #Matthew Douglas Green
-#October 9, 2021
-#Project: Dataiku Data Scientist Technical Assessment
+#November 9, 2021
+#Project: Spring Health Data Scientist  Assessment
 
-#part 1: Data Prepare: Load and clean data
+#Part 1: Data Prepare: Load and clean data
 
 ################################################################################################################################################
 #Load Packages
-Packages <- c("tidyverse", "ggplot2", "scales", "viridis", "FD","multcomp","semPlot","lavaan","stringr",  "performance","bbmle","cluster","mapview","sf","leaflet","rnaturalearth","rnaturalearthdata","ggpubr","MuMIn","randomForest","InformationValue")
+Packages <- c("tidyverse", "ggplot2",  "viridis", "performance","bbmle")
 lapply(Packages, library, character.only = TRUE)
 
 ################################################################################################################################################
