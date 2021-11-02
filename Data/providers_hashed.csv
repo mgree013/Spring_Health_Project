@@ -1,0 +1,536 @@
+roles,states,licenses,in_person_supported,status,ther_vs_mm,provider_id_hashed
+{Therapist},{MS},{LCSW},FALSE,Disabled,Therapist,34174ab86456410ee0723b30791d4e86
+{Therapist},"{NY,NJ}",{LCSW},FALSE,Disabled,Therapist,6375badf948dfbb83eeaa42c564274c0
+{Therapist},"{NY,NH}",{LCSW},TRUE,Approved,Therapist,199facc000cf3ecd9f1935bc6b0805b7
+{Therapist},{KS},"{PhD,LPC}",TRUE,Disabled,Therapist,453e115d4a7507e8f8a7fed76f31c587
+{Therapist},{OR},{LCSW},FALSE,Disabled,Therapist,dc4fdf4224316a4f293510f4c89010b3
+{Therapist},{NJ},{LPC},FALSE,Pending,Therapist,1a40be4e79c2c242c1a2c9ebfff8f5dd
+{Therapist},{MN},{LMFT},FALSE,Pending,Therapist,1da5e952a0627878d9e9490f6747509a
+{Therapist},{NY},{LCSW},TRUE,Disabled,Therapist,d31033c69c4a4988b539881bb6a11406
+{Therapist},{MA},{LCSW},FALSE,Approved,Therapist,fd1b3b8f3369f8054bda07205e8336f7
+{Therapist},{MN},{LCSW},FALSE,Disabled,Therapist,46f870409dee9e723500b9248fb20b06
+{Therapist},"{NJ,NY,GA}",{LCSW},TRUE,Approved,Therapist,25889fd4e76f6971038bd4be44b788e9
+{Therapist},{NC},{LMHC},TRUE,Approved,Therapist,b17694385e3c44d421ac9075c7046e4b
+{Therapist},{IN},{LCSW},TRUE,No New Patients,Therapist,9ea5fe5c4bd4f975b0c68f4d1c490852
+{Therapist},{TX},{LMFT},TRUE,Approved,Therapist,fa38db7f5d1d619e7e55b4833c3050b5
+"{""Family Practitioner""}","{CA,WA,NV,UT,AL}",{MD},FALSE,Approved,Medication Management,16ccba0d5a32567240e4902a84a16c09
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,d0f807f6a5f10cf3212a15b937ff4214
+{Therapist},{TN},{LMFT},TRUE,No New Patients,Therapist,90a49a5018b512a601d6877d113221a4
+{Therapist},{TX},"{LPC,PhD}",TRUE,Approved,Therapist,6e5f408dfc419bcd7e89f2700f129982
+{Therapist},"{IL,MT,OK,TX}",{LCSW},FALSE,Approved,Therapist,23f4a0239d29e275fef4bf5fca5c0509
+{Therapist},"{RI,MA,CT}",{LMHC},FALSE,Approved,Therapist,3f8fdcc8a61773ad054bc5cb25938d64
+{Therapist},{AK},{PsyD},FALSE,Disabled,Therapist,cf36211528f9098d398dee371a384c72
+{Therapist},"{OK,HI,AZ}",{LCSW},FALSE,Approved,Therapist,2a29a11dac87b342716cbb84ba8a51a5
+{Therapist},"{NH,ME,CO,VT}",{LPC},FALSE,Approved,Therapist,84184ab463da63af4e134f2a0d6a4672
+{Internist},"{NY,CT}",{MD},FALSE,Disabled,Medication Management,67ff80dbc05e236f0458203b27a02230
+{Therapist},"{CA,CO,NV,OR,TX,AZ}",{LMFT},TRUE,No New Patients,Therapist,1492c133b4d60d92e4a6a4a17ce73fe2
+{Therapist},"{NC,SC}",{LMFT},TRUE,Approved,Therapist,859c109daf335f682f7160d75188f7f8
+{Therapist},{SD},{LPC},FALSE,Approved,Therapist,6f1b0cbeb858c893b3a95e72b3111331
+{Therapist},{CA},{LMFT},TRUE,Pending,Therapist,9204e881506cd3b4cfeff7232e043e49
+{Therapist},"{WA,OH}",{LMHC},FALSE,Approved,Therapist,fe910be96a051059fd9a179594adae91
+{Therapist},{CA},{LMFT},TRUE,Disabled,Therapist,3fdddd9042f094b43bcf77ccf0c2cd16
+{Therapist},{CA},{LMFT},TRUE,Approved,Therapist,0875c13b86745ca32bdcd852604b2918
+{Therapist},{NC},{LMHC},TRUE,Approved,Therapist,c58883859bb9b737bddfb129cffc1c57
+{Therapist},"{MI,NM,VA,OH}","{LPCC,LPC}",FALSE,Approved,Therapist,ed3cc11903a2d7969ccae2de57c7a238
+{Therapist},{IL},{LCPC},TRUE,No New Patients,Therapist,dd1d32aabafd2808b5b4799671b04a8e
+{Therapist},{KY},{LCSW},FALSE,Approved,Therapist,a06c36d2c5dd40e80e8c9b0ddcfcb4b7
+{Therapist},{KY},{LCSW},FALSE,Disabled,Therapist,b40cf7ea9f1b39c122a243b62d18dbbc
+{Therapist},"{IL,WI}",{LPC},TRUE,Approved,Therapist,bf94c04fe6fd4c6327b6a2d320e32677
+{Therapist},{MD},{LPC},FALSE,Approved,Therapist,a1da97d646653ef7b60effdfe76c5453
+{Internist},"{AK,AZ,CA,CO,FL,GA,HI,ID,MA,MT,NC,NM,NV,OH,OR,TX,VA,WA,WY}",{MD},FALSE,Approved,Medication Management,9baf0e244db2db32c21916ce5fd44d5a
+{Therapist},{TX},{LPC},TRUE,Approved,Therapist,d4e3a3c57b9bc92800f8254caf1dc84b
+{Psychiatrist},{NY},{MD},FALSE,Disabled,Medication Management,873021bdc046d1cd5979c309f8ba62b5
+{Internist},"{NJ,NY,PA}",{MD},FALSE,Pending,Medication Management,4c651de1b56cbf2cad1c11ee76b71c86
+{Therapist},{CA},{LMFT},FALSE,Pending,Therapist,4df23cf8b7d5b0d9c61a85d36e53fc15
+{Therapist},{NJ},{LCSW},FALSE,Pending,Therapist,504bedc0d7c7a6560ee711c935b9d8ed
+{Therapist},{CT},{LCSW},FALSE,Pending,Therapist,dc9669f9e5a310377bc9726f2c6d6081
+{Therapist},{CA},{LMFT},FALSE,Disabled,Therapist,18f9cc62222ac5eb706110206ab8279c
+{Therapist},"{CO,DC,GA,MA}","{PsyD,LCSW}",FALSE,Pending,Therapist,cecb1f0efa41c964598a412aee19f100
+{Therapist},"{CT,MA,RI}",{LCSW},FALSE,Disabled,Therapist,bceb137e3da922a491da1572df0087dc
+{Therapist},{NJ},{LCSW},FALSE,Pending,Therapist,57716f036d75b865e240f824b92c1f85
+{Therapist},"{NJ,TN,VT,MA}",{LPC},FALSE,Pending,Therapist,ebe3d4108153c0041012817be1a38874
+{Therapist},{NJ},{LPC},FALSE,Pending,Therapist,57c1528dd7f0a0a7b548ab6815c49eb2
+{Therapist},{NY},{LMHC},FALSE,Disabled,Therapist,306e903d35c2c42d9a5f027d25535685
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,ef6eee25f13b7bceaa9b89cbe368237d
+{Therapist},"{CA,NY,OH}",{LCSW},FALSE,Approved,Therapist,63c18eb6be7e3d37f507963263621fde
+{Therapist},{NJ},{LPC},FALSE,Pending,Therapist,ce65125024638bf59bca0e36575a54a6
+{Therapist},{NJ},{LPC},FALSE,Disabled,Therapist,9b3d5fff9c7c38a399d29114f3e5f707
+{Therapist},{TX},{LCSW},FALSE,Disabled,Therapist,457598a730d254ed6297c90ea13c4ee4
+{Therapist},"{MO,IL}","{LPC,LCPC}",FALSE,Disabled,Therapist,25f20ca3dccfe93ddfe78b8895cc90bd
+{Therapist},{CT},{LCSW},FALSE,Pending,Therapist,5a118d9506e8f209f51527fdb16ac0ba
+{Therapist},"{NJ,PA}",{LCSW},FALSE,Pending,Therapist,17609c8ce8d7ffe33c7e9159b61fe5d6
+{Therapist},{PA},{LPC},FALSE,Pending,Therapist,cfbb69f78731dd4ada7158df5372a5ae
+{Therapist},{CT},{LCSW},FALSE,Pending,Therapist,361f981bfd3aa066f955ad7a4517cb1e
+{Therapist},{NJ},{LCSW},FALSE,Pending,Therapist,bb75e37ca78c26f2ae330610de13bdb1
+{Therapist},{TX},"{PhD,LPC,LCPC}",FALSE,Disabled,Therapist,02b1efbc1413f5db1012b01197f67a68
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,bfb1d0824efc1fc9793006255b5a6f7b
+{Therapist},{CA},{LMFT},FALSE,Pending,Therapist,57639d805f212221d7410764cab30b63
+{Therapist},"{CT,NY}",{LCSW},TRUE,No New Patients,Therapist,60f8d8a5a43915b55b9bb09d2964f419
+{Therapist},"{CA,NV}","{LCSW,PhD}",FALSE,Disabled,Therapist,9b3a1204772496c0794044cd7ff6da8e
+{Therapist},{IL},{LCSW},FALSE,Approved,Therapist,5c820404690fcb91fcd7e24a53a10d97
+{Therapist},{KS},{LCSW},TRUE,Approved,Therapist,7715b13a2c8e552ce34b30adfe4c21b9
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,c6a4f35cdba9c937f6bae565a90ace1a
+{Therapist},{PA},"{PhD,LCSW}",TRUE,Approved,Therapist,2616da5fe2ac439f6d70cca916d3e41a
+{Therapist},{NJ},{LPC},FALSE,Approved,Therapist,5d0eb67a1b684ab7d90694960de6d08a
+{Therapist},"{CA,OR}","{LMFT,LPC}",TRUE,Approved,Therapist,6bba2a771ee7800999202198b75f63ce
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,3a46a4d3bbedfc0f90acbaf88e4257cc
+{Therapist},{NJ},{LPC},FALSE,Pending,Therapist,654cd55336607b28a8301bb346008c00
+{Therapist},{CA},{LMFT},FALSE,Pending,Therapist,3dc9e56eee130d710cb1cd64d40d2b53
+{Therapist},{MA},"{MSW,LCSW}",FALSE,Approved,Therapist,2db247f8db35d5d75391f4adf0afb8cd
+{Therapist},"{CA,FL,PA,NJ}",{LCSW},FALSE,Approved,Therapist,23e0f0029a6dd6dffa9fac5d9ec027d8
+{Therapist},"{TX,CO,GA,MI,NC,WI,UT,IA}",{LMHC},FALSE,No New Patients,Therapist,776b563448789c519d947b9285168a66
+{Therapist},{FL},{LCSW},FALSE,Approved,Therapist,47cf1380266e221a9cd9ba9d8e85d214
+{Therapist},{CA},{LMFT},TRUE,No New Patients,Therapist,4a651f82c29509d31d9354e1ec631231
+{Therapist},"{NY,IA}",{LCSW},TRUE,Disabled,Therapist,366c2a62e0c15bd767c960f2a5615011
+{Therapist},"{MN,WI}",{LCSW},FALSE,Pending,Therapist,cdbf67cf09e0003e102375d167a75de7
+{Therapist},"{CO,IL}",{LPC},FALSE,Disabled,Therapist,fb3644770896e48a8ab5f64fa2a9395d
+{Therapist},"{AR,MS}",{LPC},FALSE,No New Patients,Therapist,3731c32cd5a37fab5523dd2a6f270365
+{Therapist},{WI},{LCSW},FALSE,Approved,Therapist,35b4202a438482cc30deb7f3399e6c9c
+{Therapist},"{CA,GA}",{LPC},TRUE,Pending,Therapist,f48fabd0ced7ee5c3e093d8b1e3c2337
+{Psychiatrist},{NY},{MD},TRUE,Disabled,Medication Management,9662d50e59de1f1bef73ab0682acec01
+{Therapist},"{OR,WA}",{LCSW},FALSE,Approved,Therapist,aefc7321ffcfa27706878902f57a4d24
+{Therapist},"{CA,GA}",{LPC},TRUE,Approved,Therapist,ecdfd32042d6c606638d341bf2ec0588
+{Therapist},"{MD,DC}",{LCSW},TRUE,Approved,Therapist,014adb839400b64fb2b2fd31733fb01b
+{Therapist},"{MD,DC}",{LCSW},TRUE,Disabled,Therapist,dc6581f6580b2b4c66e71cfcc611f7b4
+{Therapist},{PA},{LCSW},FALSE,Disabled,Therapist,5dc80c931a1679f73b7ab778514153ab
+{Therapist},{NY},{LCSW},TRUE,No New Patients,Therapist,dae3765c0b97bd9e5bf2e899ea2b000a
+{Therapist},{TX},{LPC},TRUE,No New Patients,Therapist,2f3e75f84a2acf9921e0a458970c60dd
+"{""Family Practitioner""}","{AZ,AK,AL,AR,CA,CO,CT,DC,FL,GA,HI,ID,IL,IN,IA,KS,KY,MD,ME,MI,MN,MS,MO,NE,NV,NH,NJ,NM,NY,NC,OH,OK,OR,PA,RI,SC,SD,TN,UT,VT,WA,WV,WI,WY,VA}",{MD},FALSE,Disabled,Medication Management,4687ee0167a5c53ca49ccde91f1c9965
+{Therapist},{GA},"{LPC,LCSW}",TRUE,Approved,Therapist,390897994de83a0ed15cf4ff155ebf96
+"{""Family Practitioner""}","{AZ,AK,AL,AR,CA,CO,CT,DC,FL,GA,HI,ID,IL,IN,IA,KS,KY,MD,ME,MI,MN,MS,MO,NE,NV,NH,NJ,NM,NY,NC,OH,OK,OR,PA,RI,SC,SD,TN,UT,VT,WA,WV,WI,WY,VA}",{MD},FALSE,Disabled,Medication Management,d65e4a33d8aa45e1e5a5830d527304ab
+{Internist},"{CO,FL,HI,LA,MD,ME,NJ,OK,PA,SC,UT}",{MD},FALSE,Disabled,Medication Management,3a4a2d92eda2a0cdd644b1934f21ee22
+{Therapist},"{CA,OK}",{LMFT},FALSE,Approved,Therapist,f3e1906442c20cfe0f422938ac6d9873
+{Therapist},"{DE,GA,MO,WV,MN}",{LPC},FALSE,Approved,Therapist,6082a4c3983ac6c80f2f73653b6ff9a9
+{Therapist},{NV},{LMFT},TRUE,No New Patients,Therapist,1b0abc1908bf547090a44ba3492258d9
+{},{CA},{LMFT},FALSE,Disabled,Medication Management,929d6a81e221181888f7229b62e90fa8
+{Internist},"{CT,NY,WI,PA,DE,IA,IN,LA,ME,MS,NE,UT,VT,AZ,IL,MN,NJ,TN,AL,SD,WY,CA,CO,TX,WA,ID,MI,MT,NH,NV,WV,MA,MD,RI,KS,FL,GA,OK,AR,KY,MO}",{MD},FALSE,Approved,Medication Management,cc4402b172b608f2b99395ac8e36f39d
+{Therapist},{PA},{LPC},TRUE,Approved,Therapist,ab0584dc1e15e27c79391726c52246d9
+{Therapist},"{OR,WA}",{LCSW},TRUE,No New Patients,Therapist,4f985533c283f8de144d54d63e48b13f
+{Therapist},"{NC,ME,SC,NJ,WA}",{LCSW},FALSE,Approved,Therapist,57f993cfc5510d32b9986b0349551d08
+{Therapist},"{CA,UT,HI}",{LMFT},FALSE,Disabled,Therapist,32a3b8e1eb8495816cfe8448081e64e1
+{Therapist},{CA},{LMFT},FALSE,Pending,Therapist,5970ca1326e329b37dbd956faacb817a
+{Therapist},{LA},{LPC},TRUE,Approved,Therapist,f55593f5e1bb399bf9291bc452d84f55
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,0fef0f00ecde4932cf7cd1105411e933
+{Therapist},{PA},{LMFT},TRUE,Approved,Therapist,5bb55a55b958df039943c912d0b41ad0
+{Therapist},{IL},"{MSW,LCSW}",FALSE,Approved,Therapist,d763fdeb3a93965f15de5479041755f9
+{Therapist},"{CA,NY}","{LMHC,LPCC}",TRUE,No New Patients,Therapist,9250f9be4edbdddc2c77aefec9a89c14
+{Therapist},{FL},{LMHC},TRUE,Approved,Therapist,3c33c15e4525d40671873ebadcfb6d2c
+{Therapist},{NY},{LCSW},TRUE,Pending,Therapist,d8a6593c636404e1d3f23844c40a78fe
+{Therapist},"{IL,MO}",{LPC},TRUE,Approved,Therapist,9748b87276ff48c9b1ed421a11b38d23
+{Therapist},{CA},{LMFT},TRUE,Disabled,Therapist,88ca9b16dc1b3e1596274c10bb332629
+{Therapist},"{FL,MS,TN,TX,WA,AZ,GA}","{LPC-S,LMHC}",TRUE,No New Patients,Therapist,b78619c3c051c617db04f7cffd527b54
+{Therapist},{MI},{LCSW},TRUE,Approved,Therapist,b0aac026054fc7eeec58ee92b0b384f9
+{Therapist},{OH},{LCSW},FALSE,Approved,Therapist,236adeb1e6f464ff615020f155acd2ca
+{Therapist},{LA},{LPC},TRUE,Disabled,Therapist,b61538223bd94e4c73e6161380db3c13
+{Therapist},{CO},{LPC},TRUE,No New Patients,Therapist,47216e7f3297d136171c451dbda9977b
+{Therapist},{MN},{LPCC},TRUE,Disabled,Therapist,85016b8877bacb77f9c6010c6bdfb944
+{Therapist},"{DC,MD,VA}",{LCSW},TRUE,Pending,Therapist,2f45b330203a1a0354ab506068e07647
+{Therapist},{CA},{PsyD},TRUE,Pending,Therapist,a95aec588a311db74a8a792e4b4399ba
+{Therapist},"{DC,MD,VA}",{LCSW},TRUE,Pending,Therapist,7e3b25e78c272905ffa047fc0491a6c5
+{Therapist},"{DC,MD,VA}",{LCSW},TRUE,Pending,Therapist,ddfad5e27cacaa873be44ed16d93d0ca
+{Therapist},"{DC,MD,VA}",{LCSW},TRUE,Pending,Therapist,2462d08cc732bca6adbfb67d39d3c62e
+{Therapist},{OR},{LCSW},TRUE,Disabled,Therapist,41daa1a55da001403a96798ac85b6361
+{Therapist},{MA},{LCSW},TRUE,Approved,Therapist,bae73fe222d5256da50a6588be452770
+{Therapist},{TX},{LPC-S},TRUE,Approved,Therapist,4d5f544157cf1547c9427685fa80a4ee
+{Psychiatrist},"{CA,PA}",{MD},FALSE,Approved,Medication Management,09f23cae97affc49a355d69975e4d82e
+{Internist},"{CT,DE,FL,GA,KY,OH,TN,NE,AL,AZ,CO,IL,IA,MD,MI,MN,MT,NH,UT,VT,WV,WA,WI,WY}",{MD},FALSE,Disabled,Medication Management,29165f5d0ca4e310b78200b48b4eeb0b
+{Therapist},"{CA,FL,DE}",{LCSW},FALSE,Approved,Therapist,de58738c93dc8e88dc209e68671affc9
+{Therapist},"{AL,WI,UT}",{LPC},FALSE,No New Patients,Therapist,f77fabe679c3ed9219e1c07d4fc88419
+{Therapist},{AZ},{PsyD},TRUE,Disabled,Therapist,86036bbab74e835b2385f026dc7c216e
+{Therapist},{MO},{LCSW},TRUE,Approved,Therapist,69e827b716708809eb2590f90ed618e8
+{Therapist},"{TX,CA}","{LPC,LPCC}",FALSE,Disabled,Therapist,cbc649cb2ce5a6b5feccff821ae572db
+{Therapist},{NC},{LMHC},FALSE,Disabled,Therapist,c494f032fedb228dd824ab18413c25e6
+{Therapist},{TX},{LPC},FALSE,Disabled,Therapist,0c078387481b3dfba4df89f5cabdb664
+{Therapist},{MO},{LMFT},FALSE,Disabled,Therapist,6a56f5e07a5fc42d06407b6bfd0e79e9
+{Therapist},{NY},{PsyD},TRUE,No New Patients,Therapist,176c46fdd259b6b57251502ec2add14c
+{Therapist},{NY},{PsyD},TRUE,Pending,Therapist,826c5a31e6df964c5abea208a289ddea
+{Psychiatrist},"{IA,MN,MT,NJ,SD}",{MD},FALSE,Disabled,Medication Management,94f58766d54acd4a83c1e517ed78eedf
+{Therapist},"{KY,NM,OH,MS,MN,ME,GA,FL}","{LPC,LMHC,LCPC,LPCC}",FALSE,Approved,Therapist,c11e0b13970dea4dfd6f557b0e79b205
+{Therapist},"{CA,OR}",{LMFT},TRUE,No New Patients,Therapist,14d4edc8645eda4e9060dc9861ba0a5f
+{Internist},"{CA,NY,TN,TX}",{MD},FALSE,No New Patients,Medication Management,6173aa49827f13b54f50d0aecf71b1d6
+{Therapist},{TX},{LCSW},TRUE,No New Patients,Therapist,4a680c148d98ec40576eaf56750b0730
+{Therapist},{CA},{LMFT},TRUE,Approved,Therapist,7694d050a86bec7d236b7b7726eb210d
+{Therapist},"{CA,GA,KY,OH}",{LPC},FALSE,Approved,Therapist,a9130342feafaef93e8da1202940baac
+{Therapist},{GA},{LPC},FALSE,Disabled,Therapist,d8a50c77e63a4d8666cebf8b88cdf249
+{Therapist},"{WY,IL}",{LPC},FALSE,Approved,Therapist,18d73697a5711b9542e490f5c8c32d0d
+{Therapist},"{WY,IL}",{LPC},FALSE,Pending,Therapist,bc97ee5f41e8cfa095ff720a800a2168
+{Therapist},{NY},{LMHC},TRUE,Disabled,Therapist,9532b22ca4f1c0010ab9c0c73f8cfce1
+{Psychiatrist},{PA},{MD},FALSE,Disabled,Medication Management,c2ce39fab3aa25a696c475571b4911d3
+{Therapist},{NY},{LMHC},TRUE,Approved,Therapist,608a9a1126940100afb28d5c62b68410
+{Therapist},"{CA,CT}","{LPCC,LPC}",FALSE,Approved,Therapist,304b219654d40c8942db5744f8637174
+{Therapist},{NY},{LCSW},FALSE,No New Patients,Therapist,26d75c5f94cb42228e74e6dc61e31b87
+{Therapist},{FL},{LCSW},TRUE,Approved,Therapist,47e23b8c4fd7ae489389e6ec60b7df0f
+{Therapist},{CA},{LMFT},TRUE,Approved,Therapist,5613dfc4d26ac6c12cb1f78b8e45689b
+{Therapist},{CA},{LMFT},FALSE,Disabled,Therapist,e9aaffd831eb599a9c0765601d673047
+{Therapist},{NY},{LCSW},TRUE,Disabled,Therapist,e8a54d581dc34d615b9e98cd1a4d5aa0
+{Therapist},{CA},{LMFT},TRUE,Approved,Therapist,d9d1edb2ff908a6fa98a4951b8c17abc
+{Therapist},{CA},{LCSW},TRUE,No New Patients,Therapist,671e595b79206b34e60d3b82fbc3e5f8
+{Therapist},"{MN,ND}",{LPCC},TRUE,Disabled,Therapist,223a40873193ceffccba52cb7e50c614
+{Therapist},{CA},{LMFT},TRUE,Approved,Therapist,1b3765a2180b8e9d4d9994e67f7e39fb
+{Therapist},{NY},{LMHC},FALSE,Disabled,Therapist,48e327a1ac976161dc034445a47b0dc2
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,d03a40344696290b6376c60a07b59ae7
+{Psychiatrist},"{CA,CT,FL,NY,OH,OR,RI,WA}",{MD},FALSE,Disabled,Medication Management,d4fa8a3540643e408f29c603f527e615
+{Therapist},{NJ},{LCSW},FALSE,Pending,Therapist,79923eb55ffc3ec9a96c0c1d56f2b8e4
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,f5eb0c56a454bcd4d8c6a94cf1ad7072
+{Therapist},{FL},{LMFT},TRUE,No New Patients,Therapist,d8cb4d8ebe88a7cf67704b63e08e19be
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,bc79952f0bd05433f8c86c845a249957
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,6f6aae01947d1b027badd9567a550210
+{Therapist},{CA},{LMFT},FALSE,Disabled,Therapist,9e11f077f61fecd89ee1cf64c0b6ba6e
+{Therapist},{TX},{LPC},FALSE,Disabled,Therapist,0399539bcfeb734070024a36e1500519
+{Therapist},"{NC,NY}","{PhD,LCP}",FALSE,Disabled,Therapist,99e02a8c992cfa2029904711d0ee57c2
+{Therapist},{NY},{LMHC},FALSE,Disabled,Therapist,fba869a80b3abee2f1c7ab23dd326db3
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,229bb826ff563b1a72099d2b69bc7737
+{Therapist},"{CT,NY}",{LCSW},FALSE,Disabled,Therapist,24b64b1e5cfbc9a4c02019638139035b
+{Therapist},{CA},{LMFT},TRUE,Approved,Therapist,23f2e6799c2ff7b9389140eaed7e63f5
+{Therapist},{CT},{LCSW},FALSE,Pending,Therapist,37b576ec17e42a6e45b07a2db8299c5f
+{Therapist},{NY},{LMHC},FALSE,Disabled,Therapist,388a003137296d578c314e92238bd7a0
+{Therapist},{TX},"{PhD,LCP}",FALSE,Pending,Therapist,5b7324b7984da43f44bbeff33232dbed
+{Psychiatrist},{CA},{MD},FALSE,Disabled,Medication Management,a3892e161462db3df3f12a3eca6291a3
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,fb5c4860e8f269a2894c4db00a149f3c
+{Internist},{NY},{MD},FALSE,Pending,Medication Management,776c75574e81f359a6895239e54745d2
+{Therapist},"{CA,NY}",{LMFT},FALSE,Disabled,Therapist,bbf06616f47abefa864359c4f0948288
+{Therapist},{NE},{LMHC},TRUE,Approved,Therapist,1d3b53e662bbad746389cbb5f0cb6684
+{Therapist},{FL},{LMHC},FALSE,Pending,Therapist,3bedffa64fb107b9d52692daf7960d9e
+{Therapist},"{KY,NY}","{PsyD,LCP}",FALSE,Disabled,Therapist,be6c90f0b69da313e324f3a0b8b0db53
+{Therapist},{NJ},"{PhD,LPC}",FALSE,Disabled,Therapist,c0dfc3a7682af1bbb22b9c430b3f2a59
+{Therapist},{CT},{LPC},FALSE,Pending,Therapist,c83a802bd7266063ba8214585a586ccb
+{Therapist},{NJ},{LCSW},FALSE,Pending,Therapist,7262df40b86ed63b7033625d6fa27cce
+{Internist},"{GA,IN}",{MD},FALSE,Pending,Medication Management,3861d0ed6cc16b6b58934c786d4c6e1b
+{Therapist},{MN},{LMFT},FALSE,Pending,Therapist,86c4707701ebd8f16a76f91573b0ee94
+{Psychiatrist},{NY},{MD},FALSE,Disabled,Medication Management,abd1a0fab900bcdc4b1bd70727cf8e47
+{Therapist},{TX},{LCSW},FALSE,Pending,Therapist,910e5ed568019672e4402a5489e2ae7f
+{Therapist},"{TX,CO,NE,MI}",{LCSW},TRUE,Approved,Therapist,2d57a44b2618387b3f6004906e0c2389
+{Therapist},{TX},{LPC},FALSE,Pending,Therapist,1997540e5d4e98a8f33ec313e175a5c2
+{Therapist},{NY},{LMHC},FALSE,Disabled,Therapist,7a061ea44c5c6a8feb478c107f03b28f
+{Therapist},{CT},{LPC},FALSE,Pending,Therapist,b41edb727903cb139830caf00ae8086a
+{Therapist},{TX},{LCSW},FALSE,Pending,Therapist,001232d805b8b0721d1f788303949343
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,f7810c2a6a813c48d4241e0db6d036b6
+{Therapist},{CT},"{PhD,LCSW}",FALSE,Pending,Therapist,b12830b1dfe311ccfc33bfa2fe0de729
+{Therapist},{FL},{LCSW},FALSE,Pending,Therapist,e8e54f7dbb61ddf0dc94d10a9d721ee9
+{Therapist},"{FL,NC}",{LMHC},FALSE,Pending,Therapist,7cdf7d7a0f70b8867045502979532a63
+{Therapist},{NJ},{LPC},FALSE,Disabled,Therapist,32309bff881d26689509128d43ad4852
+{Therapist},{CT},{LPC},FALSE,Pending,Therapist,ffce82363a9236ea696676efce65923a
+{Therapist},{FL},{LMHC},FALSE,Pending,Therapist,5c897025b320ad0ab32ed3e50896a077
+{Therapist},{MO},"{PhD,LCSW}",FALSE,Pending,Therapist,1e81deb6ffcd03cf3cf3f90fd7d5dfae
+{Therapist},{MI},{PhD},FALSE,Approved,Therapist,b3fdbc84a9065be3c86411eac292a355
+{Therapist},{PA},{LPC},FALSE,Pending,Therapist,7cdac0014140d8441d107f243032c239
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,bc09694ad5df5de0b53a9be836584189
+{Therapist},{FL},{LCSW},FALSE,Pending,Therapist,d95e6cc2ec1bba7b70c5417a6171ec30
+{Therapist},"{MA,RI}",{LPC},FALSE,Pending,Therapist,3ba189b0e1ad4bc7e6c01d28aef09234
+{Therapist},{TX},{LPC},FALSE,Pending,Therapist,b3bf4dd257392249789dd206e007aa8f
+{Therapist},{TX},{LPC},FALSE,Pending,Therapist,1cfcabd8e8340bc2bfd456b53f9cb51c
+{Therapist},"{AL,CO,TX}",{LPC},FALSE,Pending,Therapist,a22eb6f41755b85dcbf967e7a257f3ef
+{Therapist},{CT},{LCSW},FALSE,Pending,Therapist,bfe094854fcab08ecad90e012e1edbc9
+{Therapist},"{FL,OR,WA}",{LCSW},FALSE,Pending,Therapist,7bc75aaf4f903766da482875e3c2864c
+{Therapist},{NJ},{LPC},FALSE,Pending,Therapist,7e25ac657af883d16cebf1ff0436ca09
+{Therapist},{CA},{LCSW},FALSE,Approved,Therapist,d8dfeae4d0ada4a1b53ca342948509f9
+{Therapist},{IL},{LCPC},FALSE,Pending,Therapist,bb204a26347723d8d43956899b85f621
+{Therapist},{FL},{LMHC},FALSE,Pending,Therapist,de6a9548ab4358ab33b248faa3a0390a
+{Psychiatrist},"{CT,NH}",{MD},FALSE,Pending,Medication Management,3b71dbee25398e9f770e1e8e3df297a5
+{Therapist},{IL},{LCPC},FALSE,Pending,Therapist,e22bb394df6cd5bb770c02611f07c12b
+{Therapist},"{IL,MN,SD,WI}",{LPCC},FALSE,Pending,Therapist,957bc6f6771a281b51c5078538b27243
+{Therapist},{TX},{LCSW},FALSE,Pending,Therapist,5f26ef2a302beb2783224c046efe82a2
+{Therapist},{TX},{LMFT},FALSE,Pending,Therapist,e2f4ccfa48760cd8291bcebef7c508ae
+{Therapist},{TX},"{PhD,LPC}",FALSE,Pending,Therapist,7b724a09ba9969e8c7273506b14838ad
+{Therapist},{CT},{LCSW},TRUE,No New Patients,Therapist,e1ca6918212674c8ddafa77b0ae82d31
+{Therapist},"{NJ,NY}","{PhD,LCSW}",FALSE,Disabled,Therapist,032e432c90d9338fabe6f2a444d30fb1
+{Internist},"{CT,NJ,NY}",{MD},FALSE,Pending,Medication Management,4a5b85a4c9b53086574e42324136b718
+{Therapist},{IL},{LCSW},FALSE,Pending,Therapist,f7553188400923b7ec51a64b7bd16de9
+{Therapist},{CA},{LMFT},FALSE,Pending,Therapist,3fe4cc808f523a342086c8a218cca17c
+{Therapist},{CT},"{PhD,LPC}",FALSE,Pending,Therapist,48d4c7bd8234d7656f46e018e03513ed
+{Therapist},{TX},{LPC},FALSE,Pending,Therapist,a1e19143f7aa84aaed4c5c76461006a3
+{Therapist},{TX},{LPC-S},FALSE,Pending,Therapist,bba6f47551197c9e8ac545aa1b8f855e
+{Therapist},"{NY,TX}",{LCSW},FALSE,Pending,Therapist,6e9b6d738c2e887e40ebfcdaa25b409c
+{Therapist},"{CT,FL}",{LPC},FALSE,Pending,Therapist,d3a471dfa809cc404f8ef3f85d6e6410
+{Therapist},"{AZ,IL,IN}",{LCSW},TRUE,Approved,Therapist,8a0c6032d9c8fa25837e8dbf70f5e595
+"{""Family Practitioner""}",{NY},{MD},FALSE,Disabled,Medication Management,51b02abd04204290aa97b8576b90072e
+{Psychiatrist},{NY},"{MD,PhD}",FALSE,Disabled,Medication Management,99da2a161192eb9c10e0e0048ab2a266
+{Therapist},"{CA,HI}",{LCSW},FALSE,Pending,Therapist,b03b69360fd8186e47c20a00463c70fe
+{Therapist},{NJ},{LCSW},FALSE,Pending,Therapist,b8f4f301183153861218e353bc97d286
+{Therapist},{CA},{LMFT},FALSE,Disabled,Therapist,d2971628d03c95a62eac6b1d9c6ca2ea
+{Therapist},{CA},{LMFT},FALSE,Pending,Therapist,29c2045944a902a890e73610eb2f01b5
+{Therapist},"{NJ,NY}",{LCSW},FALSE,Disabled,Therapist,fbed906fb41057c41eeddf4d190e4146
+{Therapist},{PA},{LPC},FALSE,Approved,Therapist,bd7570dee447f8ce9641abfcfb642e76
+{Therapist},{MI},{LPC},FALSE,Pending,Therapist,7cdd03e89e885b99d78758d49ff4a92f
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,ee0893ce82fa4d4a251a5a1fc6fdf690
+{Therapist},{TX},{LCSW},FALSE,Pending,Therapist,c0e81a8691a204267a2cbd448a252ef6
+{Therapist},"{FL,MN,WI}",{LCSW},FALSE,Pending,Therapist,82b7f27410b17e7a164ba37f2364a40b
+{Therapist},{MN},{LCP},FALSE,Pending,Therapist,9bf760ceec79e278ea91c97f1785a936
+{Therapist},{NY},{LMHC},FALSE,Pending,Therapist,ea0a4438293b5ebb2f462fe7c01175a2
+{Therapist},{NY},"{PsyD,LCP}",FALSE,Pending,Therapist,cf855f02090c120854a2c4ae3a9e5189
+{Therapist},{MN},"{PhD,LCP}",FALSE,Pending,Therapist,be25eebaa25c9a7d88c2af9d46574cb9
+{Therapist},{CT},{LCSW},FALSE,Pending,Therapist,a02420769d0b32e93b133b2ddb751706
+{Therapist},{MN},"{PhD,LCSW}",FALSE,Pending,Therapist,b0d8fcafbf7fcb6c890fd4b1f639a244
+{Therapist},"{NJ,NY}",{LCSW},FALSE,Disabled,Therapist,bbbc5dc68cccd55e7178a08a750b3815
+{Therapist},"{IL,NJ}",{LPC},FALSE,Pending,Therapist,c349c0de0d505596d24ef97925e3959e
+{Therapist},"{FL,IL,OK,WI}",{LCPC},FALSE,Pending,Therapist,cf727694b10a41df315052177f7b01fe
+{Therapist},{CA},{LMFT},FALSE,Pending,Therapist,680fc51cbaf509576fbc894e7e380154
+{Therapist},{CA},{LCSW},FALSE,Pending,Therapist,68ce7100dadb333b298a462a25a47577
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,d8aec6cc94c8067d4cb7e4e4492636af
+{Therapist},{CA},"{PsyD,LCSW}",FALSE,Pending,Therapist,e45ab526726c90ab4c686cfd08b4ce27
+{Therapist},{CA},{LCSW},FALSE,Pending,Therapist,9c7c78587bf77264db8016405b7cec76
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,4a0cfaaa7f17729b26ecb65acc986a10
+{Therapist},"{AZ,IA,NM}",{LCSW},FALSE,Pending,Therapist,7b8b00913e2009bd5d9a988d14aa46eb
+{Psychiatrist},"{CA,IA,MI,ND,OH,SC,TX}",{MD},FALSE,Disabled,Medication Management,301601c0dc21ca87236c16ba41f0f1e1
+{Therapist},"{CA,MA,NY}",{LMHC},FALSE,Disabled,Therapist,68c94d282d31810a6fe5f1b14378ba04
+"{""Family Practitioner""}","{CA,OR,WA}",{MD},FALSE,Pending,Medication Management,f03a11c10f745626710eac9515b2f242
+{Therapist},{NY},"{LMFT,PsyD}",FALSE,Disabled,Therapist,95ed918e83a30cb8c06ca76c4ab15f43
+{Therapist},{NJ},{LPC},FALSE,Pending,Therapist,f2e56c9a15cf64f235feba2e4d0d80fa
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,09934d1e091eda95ac7852e9fc5e763f
+{Therapist},{TX},"{PhD,LPC}",FALSE,Pending,Therapist,b85afeb157da983a603436f7bade2c28
+{Therapist},{NY},{LCSW},TRUE,Approved,Therapist,1fe066731b342512c21d2f7fa72ae63d
+{Therapist},{CA},"{MSW,LCSW}",TRUE,Disabled,Therapist,33ea449cffa23d93b269e45cf0e19cbc
+{Therapist},{NY},{LMHC},FALSE,Disabled,Therapist,e3d1f2cdd3a28da9e526d441915a1903
+{Therapist},"{CA,NY}",{LCSW},FALSE,Disabled,Therapist,7d34d1699f74444f5ceb41193b360555
+{Psychiatrist},"{NY,TX,IL,PA}",{MD},TRUE,Approved,Medication Management,231216f5bc0d218d1e445800f27c4765
+{Therapist},"{NY,MA}",{LCSW},TRUE,Disabled,Therapist,fa30c6aa9fa6261f494baed237276ff4
+{Therapist},{NY},{LMHC},FALSE,Disabled,Therapist,07dc01dd4945906041652366565214ea
+{Therapist},{NY},{LCSW},FALSE,Pending,Therapist,6416a4ca3c9be4e4a4d864f14b81f3e9
+{Therapist},{NJ},{LCSW},FALSE,Pending,Therapist,5ae06fa49acaaebdcfc1fe9f48d780b7
+{Therapist},{CT},{LCSW},FALSE,Pending,Therapist,cc4776c574d502a8c27d952f5374357b
+{Therapist},"{NM,NY}",{LMHC},FALSE,Disabled,Therapist,04502e8cba2d09ffb59a410eea2a9ba1
+{Therapist},"{CA,WA,MD,NV,SC}",{LCSW},FALSE,Approved,Therapist,d0d455fc5fb8fa7de61ac201c335c9ab
+{Therapist},"{FL,NJ,PA}",{LMFT},FALSE,Pending,Therapist,4fb55197d17a88d4776a5ba78a80250a
+{Therapist},{CA},{LCSW},FALSE,Disabled,Therapist,b8457592287885ef23c42c883bfbfdae
+{Therapist},"{NY,PA}",{LCSW},FALSE,Disabled,Therapist,57441dbff303c9e8b295df19964b26f7
+{Therapist},"{NY,FL}",{LCSW},FALSE,Approved,Therapist,bc81ae37c961ef14e224eacbda4379ad
+{Therapist},"{MD,NY,DC}",{LCSW},FALSE,Disabled,Therapist,a5c9e5088572e2d44f42a5088036e7e0
+{Psychiatrist},{CA},{MD},FALSE,Disabled,Medication Management,b126ad87247ba40bc0e0c0b9e26e4f08
+{Therapist},"{NY,CT,NJ}","{LMHC,LPC}",FALSE,No New Patients,Therapist,ee14f501d7d57ec96bb9953c4d42c76a
+{Therapist},{NY},"{LPC-S,LCSW}",FALSE,Disabled,Therapist,f90ca3427595cb52a0973837cbae1cae
+{Therapist},{CA},{PsyD},TRUE,Disabled,Therapist,59b83e80fc7cf0d10c9dc9eed5156d14
+{Therapist},{CA},{PhD},TRUE,No New Patients,Therapist,e18808b755902a410e6397df1a17ffac
+{Therapist},{CA},{PhD},TRUE,No New Patients,Therapist,ad54fe0e872dbcf8641e7ad4ed41e0de
+{Therapist},{IL},{LCSW},FALSE,Pending,Therapist,d9186087310cff6a3ce998b927bde0bb
+{Therapist},"{NJ,PA}",{LCSW},FALSE,Pending,Therapist,2a406665868652a8a4d8e26390ee9b59
+{Therapist},{NY},{LMHC},FALSE,Disabled,Therapist,1d6af5ab45ca242a6d12ce66694f28e6
+{Therapist},{NY},{LCSW},FALSE,Approved,Therapist,82febf946b7d2e870f8bf9a91fa34b6b
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,fe5993a6d750295cdcce23f29e29cdfc
+{Therapist},{PA},"{MSW,LCSW}",FALSE,Approved,Therapist,34f8a5af1187a762b2091e1f43f643b3
+{Therapist},{GA},{LPC},FALSE,Disabled,Therapist,865d3f779ade3ecbd3a1692d71629452
+{Therapist},{NY},{LMHC},FALSE,Approved,Therapist,01c40fbd8575345d2597e5f96b42fbe8
+{Therapist},"{FL,GA}",{LMFT},FALSE,Disabled,Therapist,603213dff54efd503fa834c03615c98f
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,06f5bf5080e692b00bd54fbe5dcec454
+{Therapist},"{FL,NY,VT,WV,KS}",{LCSW},TRUE,Disabled,Therapist,b79aadac20d2e8d72fd2d69497d21c6a
+{Therapist},"{MI,PA}",{LPC},FALSE,Disabled,Therapist,089363bc2ab7ee6f5f202c2c17b5ea6e
+{Therapist},"{OK,TX}","{LPC-S,LPCC,LPC,PhD,LMFT}",FALSE,Disabled,Therapist,013a1cb123fdeb423f0f029fe9a3b5c9
+{Therapist},{NY},"{MSW,LCPC,LCSW}",FALSE,Disabled,Therapist,ee65ee0b4855b6dfaf9ce7ffc0c2a04c
+{Therapist},{CA},{LMFT},FALSE,Disabled,Therapist,0e3856fbff449e4bcb76a113e6e675a4
+{Therapist},"{NY,TX}",{LMHC},FALSE,Approved,Therapist,8556134ec7d734ab7f40b0e3bae00c60
+{Therapist},{NY},{LCSW},FALSE,Disabled,Therapist,2dbf4da5dbc0ed93fd7929abd6b73f3b
+{Therapist},"{VI,MI,PA,ID,MA,TN,VT}",{LCSW},FALSE,Approved,Therapist,bcb0e086b3b971f6cb3139e39409e1eb
+{Therapist},{TX},{LPC},FALSE,Disabled,Therapist,8743e9e293cd26fc43e3cd51e1ed21cf
+{Therapist},{PA},{LCSW},FALSE,Disabled,Therapist,2f8489cb744c56094ca0e36d131f2963
+{Therapist},"{GA,FL,VA,TX,SC,AL}",{LCSW},FALSE,No New Patients,Therapist,3e72a0fa4d7e7794e2bf57b0806f572d
+{Therapist},{GA},{LCSW},FALSE,Disabled,Therapist,481c6f3284eb89adc25778eeb3d4a16e
+{Therapist},"{NY,DC,VA}",{LCSW},FALSE,Disabled,Therapist,db1b3db40f45152bf0db9e8b5e7a35bd
+{Therapist},{FL},{LMHC},FALSE,Disabled,Therapist,ad75a423e0a4cd3e4e8c481c6d1f2937
+{Therapist},{CA},{LMFT},TRUE,Disabled,Therapist,d7f167b241a825d4c01db6b7c8d068f1
+{Therapist},"{DC,TX,NY,WA}","{LPC,LMHC}",FALSE,Approved,Therapist,81850c259fa7291e73ddf148ca572ea2
+{Therapist},{GA},{LPC},FALSE,Approved,Therapist,12bcf8d7e5ab69f5499cdcc3295b16fa
+{Psychiatrist},"{CA,GA,NC,IN,ID,WV}",{MD},FALSE,Disabled,Medication Management,67c583957ae9eeb0d5f1d8aa87fc1586
+{Therapist},{PA},{LCSW},TRUE,Disabled,Therapist,b135aa396722cfcd862f8f8e6d44415a
+{Therapist},{PA},{LPC},FALSE,Disabled,Therapist,dd9285d41883f75f0c6949a7a315f756
+{Therapist},{GA},{PsyD},FALSE,Disabled,Therapist,53d5b90a57ecccf6b66ebcd6d0c8ab7c
+{Psychiatrist},{PA},{MD},FALSE,Disabled,Medication Management,fa8dd0fe8a0187daf86176a6b7fdb39f
+{Therapist},"{GA,AL}",{LCSW},FALSE,Disabled,Therapist,5191f681b485377669e113af0994e5d0
+{Psychiatrist},"{NY,CT}",{MD},FALSE,Disabled,Medication Management,606351300ad8e85eaace78d127ad433e
+{Therapist},"{VA,DE,NJ}",{LPC},FALSE,No New Patients,Therapist,68243a5e6d0bf6bd44e0635837d9872b
+{Therapist},{MI},{LMSW},TRUE,Disabled,Therapist,0eb341b659d5f50a3cab9cc4878b2297
+{Therapist},"{CA,WA}",{LMFT},TRUE,Pending,Therapist,19203f45fa2b75f17964fecbeac21f2a
+{Therapist},"{CA,WA}",{LMFT},TRUE,No New Patients,Therapist,196c5f7a02d8c6586883c60da240a705
+{Therapist},"{SC,MD,FL}",{LCSW},FALSE,No New Patients,Therapist,f5ec8c49a3075be25382f55dcd31b06a
+{Internist},{OH},{MD},FALSE,Approved,Medication Management,9dd22b29c702611ddb866b912c3051cd
+{Therapist},{NY},{PsyD},FALSE,No New Patients,Therapist,6de2d4a1f2409484a6ec4cbcea21706b
+{Psychiatrist},"{CA,FL,MO,NC,NY,PA,TX}",{MD},FALSE,Disabled,Medication Management,ad168c76c75db5aa898d321633466fd0
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,3a91b208caa72df79b668f0bbd3a5b6e
+{Therapist},{CA},{PsyD},FALSE,Pending,Therapist,153870b798d44a684697afb2fdb26ff8
+{Therapist},{MI},{LMSW},FALSE,No New Patients,Therapist,893f713819f624f615ef0b39759ecd74
+{Psychiatrist},"{PA,HI,MA,VA,WA,WY,CA,NY,MD}",{MD},FALSE,Approved,Medication Management,272f75dee644e7ef301e4bdcdae7e6b9
+{Psychiatrist},"{PA,HI,MA,VA,WY,WA,CA,NY,MD}",{MD},FALSE,Approved,Medication Management,ad13fd48d7f102b0c7b5024da8d620fe
+{Therapist},{NJ},{LCSW},FALSE,Approved,Therapist,daa3f55ee8ff415ab1cfd0676d65d28d
+{Therapist},{NJ},{LCSW},FALSE,Approved,Therapist,bc83c9cdafdbf5290f9355dc80f8797e
+{Psychiatrist},"{IN,NY,MN,WI,PA}",{MD},FALSE,Approved,Medication Management,994ca929fbf64bb08cc8e6995af74af4
+{Therapist},{MD},{LCSW},TRUE,Approved,Therapist,341a9bfbeea1ba205fc0fb0cc1ef3892
+{Therapist},{FL},{LMHC},FALSE,Approved,Therapist,aa52e3e07f5de4d23de814666b5a80d0
+{Therapist},{NY},{PsyD},TRUE,No New Patients,Therapist,bc4198c7f4ed9ba935600505d6a73dab
+{Therapist},{TX},{LPC},TRUE,Approved,Therapist,95258fad5c1804fbb6453eff44096534
+{Therapist},{CA},{LMFT},FALSE,No New Patients,Therapist,76843623a353c0c90a993c968a5a03ff
+{Internist},"{DC,FL,NC,SC,VA,OH}",{MD},FALSE,Approved,Medication Management,6ab891dd867b600bc69766855bd1f8d4
+{Therapist},"{KS,MO,AZ,CO,DE,GA,IL,NH,NE,NV,OK,PA,TX,UT}",{PhD},FALSE,Approved,Therapist,f48d0a70e5792108af2ffdfa10c0ea62
+{Therapist},{CA},{PhD},TRUE,Approved,Therapist,18b47946cc198c57582cd921f11f17d7
+{Therapist},"{CA,NY}",{LCSW},FALSE,Approved,Therapist,8aacfe01a6eb2b8df99d293a531d92ea
+{Therapist},"{NY,NJ}",{LCSW},TRUE,Approved,Therapist,2d3520f52b92d5eb11f4031eda3c21e7
+{Therapist},"{MA,NJ}",{LCSW},FALSE,Approved,Therapist,7398a67742cc0be6df48c72a69ea8434
+{Therapist},{CA},{LCSW},FALSE,No New Patients,Therapist,b471a479fe375ebc4cce0480eb890f57
+{Therapist},"{CA,AZ,UT,ID,NV}",{LCSW},FALSE,Approved,Therapist,b12159f508e3368bf5401d5dfbab1cf3
+{Therapist},"{MD,NC,DC}",{LCSW},FALSE,Approved,Therapist,51dceb482227f29a56a1d79132dea2c9
+{Therapist},{CA},{LCSW},TRUE,Approved,Therapist,7d1b34a25c5297558ef171813403d6da
+{Psychiatrist},"{MO,PA}",{MD},FALSE,No New Patients,Medication Management,96a9f01085d3b79df0f2c43dcc1c375f
+{Therapist},"{VA,CT,CO,OK,MN,OR,WI,WA}","{LPC,LPCC}",FALSE,Approved,Therapist,b4072da31d9ab7cd93ca410948f8b4d9
+{Therapist},{NY},{LCSW},FALSE,No New Patients,Therapist,aa91a34dcd2a09bc81188aa515d5414d
+{Therapist},{KY},{LMFT},TRUE,Disabled,Therapist,a1e582133907ca30abb9988773aaaad6
+{Therapist},{CA},{LPCC},TRUE,No New Patients,Therapist,fffdc99f12102e7fe746ed4a1d2dd826
+{Therapist},"{VI,NY}",{LMHC},FALSE,Approved,Therapist,c08f65c846d9b72d7e9620729b21ba40
+{Therapist},"{DC,MD,VA}",{LCSW},TRUE,Approved,Therapist,dc5a82ffa5c78a03c2a8d79273b74ccc
+{Therapist},{TX},{LPC},TRUE,No New Patients,Therapist,752010f4cfe61afc7ace5c456580efba
+{Psychiatrist},{CA},{MD},FALSE,Disabled,Medication Management,e69a443270bb22b6cdadd7eae59258e2
+{Therapist},"{GA,OH}","{LMFT,LPC,LPC-S}",FALSE,Approved,Therapist,dd4270fde6e6cf57294212dc7ef7c686
+{Therapist},"{AL,FL,GA,NC,KY,SC,VA}",{LCSW},FALSE,Approved,Therapist,5e6f326c1d38a464595bf45fe21e5fe2
+{Therapist},"{NJ,TX}",{LCSW},FALSE,Approved,Therapist,b9815e44f54045cb30836860fe58b54c
+{Therapist},"{IL,NJ}","{LPC,LCPC}",FALSE,Approved,Therapist,0d7d03818061cf1d462543ef21148a0c
+{Therapist},{CA},{LMFT},TRUE,Approved,Therapist,778f09ae220f6c1bf02d934ef6581c2f
+{Therapist},"{NY,KY}","{LMHC,LPCC}",FALSE,Approved,Therapist,754c668f86529770cccd0f83e979dd98
+{Therapist},"{CA,IN}","{LMHC,LPCC}",FALSE,No New Patients,Therapist,14d0a0ba710bccb8e68acbcf69be0b3d
+{Internist},"{TX,OR}",{MD},FALSE,Approved,Medication Management,d6e7c3a05f618b44e9c61cb3e97b066a
+{Therapist},{TX},"{LPC,LPC-S}",TRUE,Approved,Therapist,84a98d45e4897dacfe202ce22f5ecb90
+{Therapist},{CA},"{LCSW,LPCC}",FALSE,Approved,Therapist,340d6d3f764bf2a7031424719eaf25bb
+{Psychiatrist},"{AR,KS,MO,OK}",{MD},FALSE,Disabled,Medication Management,29f8b480939ad59441e3334b6b1ddbcc
+{Therapist},{NC},{LCSW},FALSE,Approved,Therapist,e8f89a817f55e0a022d6df4641d2050f
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,3337bedf36c57dbeb6feeee7bc7986a6
+{Therapist},{CA},{LCSW},FALSE,Approved,Therapist,39911a3400bc5ef15fee92d9cabaf19d
+{Therapist},"{NC,SC,NJ,TX,TN,PA}",{LCSW},FALSE,Approved,Therapist,a20038799d0e61fd0fc4607d22265e33
+{Therapist},"{IN,MO}","{LMHC,LPC}",FALSE,Approved,Therapist,c10108226874c3cc87a199db88c6489b
+{Therapist},{NY},{LCSW},FALSE,Approved,Therapist,e95ec81118954cfeb7ff7d03bccd4a4f
+{Therapist},"{CA,CT}","{LMFT,LPC}",FALSE,Approved,Therapist,d3139fd24eeb448dd1c4b1bb612c201a
+{Therapist},"{FL,NC}",{LMHC},FALSE,Approved,Therapist,dc3709c3437f17b88c212f10bedcedde
+{Internist},{IL},{MD},FALSE,Approved,Medication Management,36307eb2fb701155010816c26febf032
+{Therapist},"{KS,MD}",{LMFT},FALSE,Approved,Therapist,2a767f3e0d4b75fe8e70d00ea1866f5d
+{Psychiatrist},"{AR,MO,CO}",{MD},FALSE,Approved,Medication Management,d0026cfacddbd5643d291ac0ed01990d
+{Therapist},"{FL,NJ}",{LCSW},FALSE,Approved,Therapist,4325b22caa8d42b120a47fc8de7165a5
+{Therapist},"{CA,OR}",{LMFT},FALSE,Approved,Therapist,ba99e0557a411b70d735626f27dea46d
+{Therapist},{NJ},{LCSW},FALSE,Approved,Therapist,5b54d88e5a23ccb69e9b5ba06171a747
+{Therapist},{UT},{PhD},FALSE,Pending,Therapist,04ea44f70ad0bd2e8aedfde53036e3bf
+{Therapist},{CO},"{LPC,LCPC}",FALSE,No New Patients,Therapist,7659b06098ad9f6cdbc48b0327168c1b
+{Internist},"{MI,NJ,DE}",{MD},FALSE,Approved,Medication Management,8b9ee5fc5f7bf10a514f30b62e1af6da
+{Psychiatrist},{NY},{MD},FALSE,Approved,Medication Management,5164f59351a3adecccb2ba196d2a35be
+{Therapist},{IL},{LCSW},FALSE,Approved,Therapist,7c0b5727d3943e928aa197a31782b799
+{Therapist},"{NJ,FL}","{LMHC,LPC}",FALSE,Approved,Therapist,0e5ae46309ec65e1c1a104ef8cac4c42
+{Therapist},"{CA,CO,FL,AZ,ME,NM,PA,NE}",{LMFT},FALSE,Approved,Therapist,29ae2e8aa064ae1e23feb677610a0050
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,7989792fecc7ea8f60d9928db975cee5
+{Psychiatrist},"{FL,NC,VA,NV}",{MD},FALSE,Disabled,Medication Management,31f2e0630d25ca2bb7ca08d9e5bdbf5c
+{Therapist},"{TX,TN,MA}","{LMHC,LPC}",FALSE,Approved,Therapist,5ee67a61eb534b15886c9757522b18f0
+{Therapist},{OR},{LCSW},FALSE,No New Patients,Therapist,9b449e1e9a2b65d55f91cc9b79e43c5a
+{Therapist},"{MT,CO}",{LCPC},FALSE,Approved,Therapist,0452ad0192761e6ad967e5ad25c82680
+{Therapist},"{NY,NJ,PA}","{LCSW,LMFT}",FALSE,Approved,Therapist,267f5de32fd5c5cac5699d82a37975d1
+{Therapist},{NY},{LCSW},FALSE,Approved,Therapist,1b5a0af8c515f9b6891c06d06c3e2a4c
+{Therapist},"{LA,TX,FL,KS,AZ,GA,VA}","{LPC,LCPC}",FALSE,Approved,Therapist,bf9351637d22bda6fa8a6d8784fbc83d
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,94891c3c6726e698396a203ccaf35a54
+{Therapist},"{NY,NJ}",{LCSW},FALSE,Approved,Therapist,9234dce2e9f12c903db96a4bbbbe5701
+{Therapist},{TX},{LPC},FALSE,No New Patients,Therapist,780a24aa611db6751c520e340c5a74a1
+{Therapist},{IL},{LPC},FALSE,Approved,Therapist,6efefdbe6be2a4df54db2183dd1f9b53
+{Therapist},"{NJ,FL,LA,VA}",{LPC},FALSE,Approved,Therapist,00116867ea16e53a6b008d93395a8126
+{Psychiatrist},{GA},{MD},FALSE,Disabled,Medication Management,5dd03e4d529763066a87dfed496641f5
+{Therapist},"{GA,NY}",{LMFT},FALSE,Approved,Therapist,3e9482ab675c7dcd2f73a53a3c03837e
+{Therapist},{CA},{LCSW},FALSE,Approved,Therapist,f9cd2ce1dce3b878881fbf52ac559f58
+{Therapist},"{FL,IL,CO,NC}",{LCSW},FALSE,No New Patients,Therapist,86a28a4c7b03dbd3ad74aa575348ae8e
+{Therapist},{NY},{LMHC},FALSE,Approved,Therapist,ed19951edc49d3c2a20af796d53a479a
+{Internist},"{DC,MD,VA}",{MD},FALSE,Approved,Medication Management,3c3f9802775844ea7948d142bfe6eac2
+{Therapist},{DC},{LCSW},FALSE,Disabled,Therapist,da8f75d9b05dda479d86002049bf7160
+{Psychiatrist},"{GA,FL}",{MD},FALSE,Approved,Medication Management,3ac3f1fbf0443ebb0c7e2e09bdfe45fd
+{Therapist},{CT},{LPC},FALSE,Disabled,Therapist,b883fbf3186414ad4a297a50d0471ffa
+{Therapist},"{OR,CA}",{LMFT},FALSE,No New Patients,Therapist,91262c53572dfa5c5b3f1cab72e83b9a
+{Therapist},"{ID,NV,AZ}",{LMFT},FALSE,Approved,Therapist,6e40acfeeb25ea549c422c50bf892bd0
+{Therapist},{NY},{LCSW},FALSE,No New Patients,Therapist,82b0bf2c45082c3d85e1d57f42e28e6b
+{Therapist},{CA},{LMFT},FALSE,No New Patients,Therapist,3dedc5700b65e269488487c1be6d7742
+{Psychiatrist},"{NJ,NY}",{MD},FALSE,Approved,Medication Management,b49e7f7eb155d3594618d2ffc4fd8949
+{Therapist},{PA},{LPC},FALSE,Disabled,Therapist,f82c092a8fe962b69dd15e753a047ed3
+{Therapist},{CA},{PhD},FALSE,Approved,Therapist,8acc8751d4e045965f050007b69591a9
+{Therapist},{NY},{LCSW},FALSE,Approved,Therapist,8890fcbc10bf70fdf8673e517c4cd918
+{Therapist},{NY},{LMHC},FALSE,Approved,Therapist,865a3c2f61cfeb3f9c9f4b0a7e87c14e
+{Therapist},"{AR,TX,MO}",{LPC},FALSE,No New Patients,Therapist,829b59024ac81c8138475a416d922727
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,c59727e6d4f18f06cb87cd5fb41c3145
+{Therapist},"{GA,FL,NJ}",{LCSW},FALSE,No New Patients,Therapist,9a2fd8b1b7523b21dc37f9ebb31375ae
+"{""Family Practitioner""}","{CA,TX}",{MD},FALSE,Approved,Medication Management,ac27b8b644f4dc283299f6419dc03a52
+{Therapist},{NY},{LCSW},FALSE,No New Patients,Therapist,51efb3ff35162dda5084d2de1b47fa3d
+{Therapist},"{WY,NE}",{LCSW},FALSE,Approved,Therapist,be7c31044a176956fa05b59baddb6213
+{Internist},"{AL,FL,IN,KS,MI,NC,NE,OK,PA,TN,VA}",{MD},FALSE,Approved,Medication Management,8b820f05f0fc7603b5cb920736bf17d3
+{Therapist},"{IA,NE}",{LMHC},FALSE,Approved,Therapist,22617da5b0250202333b86127b7c1db2
+{Therapist},{DC},{LMFT},FALSE,Approved,Therapist,bae3696e96896a5d89d9d1408f74eae4
+{Therapist},{MA},{LCSW},FALSE,Approved,Therapist,623f4fa96c02f426dfe96d2fa1bc1f95
+{Therapist},"{KS,TX}",{LMFT},FALSE,Approved,Therapist,ce0a4f6591d7880d233684c3eff84726
+{Therapist},"{NC,SC,IL}",{LCSW},FALSE,Approved,Therapist,ff9def3f3b24dc28a55feb3fda360d7d
+{Therapist},{TX},{LPC},FALSE,Approved,Therapist,a21536971a28ffb0cb55aff13a625771
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,c084b76589c1a40e36f8684cfd35456c
+{Internist},"{MA,NH}",{DO},FALSE,Approved,Medication Management,9f644a19a31065cf627ecfc800603d7f
+{Psychiatrist},{CA},{MD},FALSE,Approved,Medication Management,e6fdd473ce263974bfbf44111b2e7608
+{Therapist},{CA},{PsyD},FALSE,No New Patients,Therapist,cae9ae96f3e438a269af464578969a84
+{Therapist},"{DC,VA}",{LCSW},FALSE,Approved,Therapist,65a3f7cc35dd31de53b2ef1f1a19a624
+{Therapist},"{VA,TX,DE}",{LPC},FALSE,Approved,Therapist,c98947eef346c71dac6d2b33fc7b64bf
+{Therapist},{TN},{LPC},FALSE,Approved,Therapist,6645e1d3ac164b24808aef7adbe678e0
+{Therapist},"{TN,AR,SC}",{LPC},FALSE,Approved,Therapist,d4359b4273beb8dae959d58a8b59f0ee
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,3615fde233f44db9e78a63e764671fa9
+{Therapist},"{MO,MN}",{LCSW},FALSE,Approved,Therapist,4ce0b3bb4d10f5c786fd2ba97f3ea58b
+{Therapist},"{MN,MI,WI}","{LPC,LCPC}",FALSE,Approved,Therapist,1cc8725373eaf81f92696650c9875566
+{Internist},"{CA,MI,MS,LA}",{MD},FALSE,Approved,Medication Management,4591ee2564de9f9dbdcf38cf651e30a0
+{Therapist},"{AZ,IL}","{LCPC,LPC}",FALSE,Approved,Therapist,a28f13d46a4e0bb2789631d770aaa004
+{Psychiatrist},"{MI,NY,NJ}",{MD},FALSE,Approved,Medication Management,0855220316947f504db90c81a0fa98a8
+{Therapist},{NY},{LCSW},FALSE,Approved,Therapist,f69a0869a5099ef8a539296fbaf6e0de
+{Therapist},"{CA,OR,WA,NC}",{LMFT},FALSE,Approved,Therapist,e4d5dab9c0e6e843211c9eae651f4d24
+{Therapist},{IL},{LCSW},FALSE,Approved,Therapist,b70203786078a762ed3a16ded0488339
+{Therapist},{MN},{LPCC},FALSE,Approved,Therapist,80bbaba07e128a7ee5ea6fa3b13464b6
+{Therapist},"{CA,HI}",{LCSW},FALSE,Approved,Therapist,7d38589004be4c120334ab6d30a34509
+{Therapist},"{AL,TX}",{LMFT},FALSE,No New Patients,Therapist,b266e59d9ef8445813cf486d26183f37
+{Therapist},"{CA,VT}","{LMFT,PsyD}",FALSE,Approved,Therapist,53a5d62caeec76ca4db6deca96d5f497
+{Therapist},{MA},{LCSW},FALSE,Approved,Therapist,8e4eff40d9526d8d24b69a3141616808
+{Therapist},"{HI,MA,RI}",{LMHC},FALSE,No New Patients,Therapist,8443f8257f1b1911370e8c0294812190
+{Therapist},"{IA,NE}",{LCSW},FALSE,Approved,Therapist,f7d6f78bf74f5c6f59a9029dcc1cf101
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,e79c57ed0c6729806c47b6c309ab5d5b
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,0d5d079ef24f6770fbe919ec7cc6c520
+{Therapist},{CA},{LCSW},FALSE,No New Patients,Therapist,ebcd41fb1e35c8791ae2905332b0a11e
+{Therapist},{MN},{LPC},FALSE,Approved,Therapist,7dea8e8a2c85d06d0922056a3d214dcf
+{Therapist},{WA},{PsyD},FALSE,Approved,Therapist,f5d5ab3653484002714d023cb2708428
+{Therapist},{TX},{LPC},FALSE,Pending,Therapist,cd10fb39750906571b33944cb1b1d2f3
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,663813bdd7f224f0f43860ea25939af7
+{Therapist},"{NC,FL}","{LMHC,LPC}",FALSE,Pending,Therapist,181e5abe0e9f2ed35a854e930c6102b5
+{Therapist},{GA},{LMFT},FALSE,Approved,Therapist,f6036eb33a65ced909f82fc696254fa3
+{Therapist},"{MD,CO,DC,GA}",{LCSW},FALSE,Approved,Therapist,b839049f2de51131b3603cc7245a8eeb
+{Therapist},{FL},{LMHC},FALSE,Approved,Therapist,9b157dc255c35408b433a7f9daec42aa
+{Therapist},{NY},{LMHC},FALSE,Approved,Therapist,2c478e7bda2f74b0d73a409d490da7a0
+{Therapist},"{MA,OR,NH}",{LCSW},FALSE,Approved,Therapist,cec4b848fef6638692011832aa011d07
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,283ae7bcb5094d3f5de26ee247f2b4eb
+{Therapist},{PA},{LMFT},FALSE,Approved,Therapist,d49add97bb6b85f8eba42bc4c179e76d
+{Therapist},{FL},{LMHC},FALSE,Approved,Therapist,73cca0854e7643e6ab1d503329b2246a
+{Psychiatrist},"{CA,NY}",{MD},FALSE,Approved,Medication Management,796033ecf1734137c9695a14b323aaf0
+{Psychiatrist},"{NY,DE,CA,CT,CO}",{MD},FALSE,Approved,Medication Management,6a1ea4c9835a1da79bfc9c87a692d591
+{Therapist},"{WA,FL}",{PsyD},FALSE,Pending,Therapist,ddbc21686af96b3697af93c7cafaa260
+{Therapist},{MA},{LMHC},FALSE,Approved,Therapist,32866ad20ebe86ff42701b818fe1c6f0
+{Therapist},"{MA,OK,CA,HI}",{LCSW},FALSE,Approved,Therapist,bd3a5f3968effe2a7dfbc4aea1f31e3f
+{Psychiatrist},"{WA,NY,NV,MD,KY,IA,NM}",{MD},FALSE,Approved,Medication Management,247efd5b98a2ef44319bf20ff1db53c7
+{Therapist},"{AZ,OR}",{LCSW},FALSE,Approved,Therapist,01d5f471974767e828f70a996d137b5e
+{Therapist},"{NJ,PA,WA,OR}","{LMHC,LPC}",FALSE,Approved,Therapist,098a39ae78958d68c39c1fad6df78817
+{Therapist},{UT},{LCSW},FALSE,Approved,Therapist,5471e3cf6ad170fab63020262be44006
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,ebd76bd2c6bc7f17c17d638bfec59652
+{Therapist},{NC},{LMHC},FALSE,Approved,Therapist,5cf8e19d02c01cf1fc865570c13ec8f3
+{Therapist},{PA},{PhD},FALSE,Approved,Therapist,234f8b8ea661bdee27ab05451be7aa82
+{Therapist},{CA},{LPCC},FALSE,Approved,Therapist,33387773265c2fa3057af46f4fbaec88
+{Therapist},"{FL,OR}",{PsyD},FALSE,Pending,Therapist,ebdb0578c4b2f655d3a8146449bb91d3
+{Therapist},{NC},{LMHC},FALSE,Approved,Therapist,4f29c2a17d61eee74b8898cd69138d6e
+{Therapist},"{TX,WY,FL}",{LPC},FALSE,Approved,Therapist,8b2dbe0d0690467df7c9dd0cdc9466ad
+{Therapist},{TX},{LCSW},FALSE,Approved,Therapist,71b635fcebb015ac492902864f3a464d
+{Therapist},{MA},{LMHC},FALSE,Approved,Therapist,fbde7cfc263a4f259a63055ede5aa71d
+{Therapist},{MA},{LCSW},FALSE,Approved,Therapist,4f5fa65a3f340aec95edba1dbb903690
+{Therapist},{IN},{LMFT},FALSE,Approved,Therapist,3edc93a36ef2d719883ca7c6dce6588c
+{Therapist},{NY},{LMHC},FALSE,Approved,Therapist,e9f0922da23af1dfffabf7f31167ad47
+{Therapist},{CA},{LCSW},FALSE,Approved,Therapist,60d6ad4e73edce99436b5dc2590282cf
+{Therapist},{CA},"{LMFT,LPCC}",FALSE,Approved,Therapist,ddef16c307ee0ffa4c1cafd684290d2a
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,32af43bcf1aac3709c67a360bc2a2472
+{Therapist},"{NJ,NY}","{LMHC,LPC}",FALSE,Approved,Therapist,235decbf4deebb2965f846a5860f36fa
+{Therapist},"{NJ,NY}",{LMFT},FALSE,Approved,Therapist,ab75fb988319c36f75a027e2321a5535
+{Therapist},{WA},{LCSW},FALSE,Approved,Therapist,942e0bba081e71d76da9240fcf55d21a
+{Therapist},{NY},{PsyD},FALSE,Approved,Therapist,8d85e360e49ed0f959ccabc791758c1b
+{Psychiatrist},"{NJ,NY}",{MD},FALSE,Approved,Medication Management,b1de1cdcbf6c3c008a1fa3d3b049f98d
+{Therapist},{MA},{LMHC},FALSE,Approved,Therapist,79fea23c893dc0d048194de8d866b97a
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,b0f1ed2afdf071c96bc23c7b950aeb67
+{Therapist},"{WA,OR}",{LCSW},FALSE,Approved,Therapist,b486faa89fd24df803ce19877d17bcbd
+{Therapist},"{NY,VT,NM}",{LMFT},FALSE,Approved,Therapist,dcb8cffddae263658c3da9f347328260
+{Therapist},"{TN,KY,MO}",{LCSW},FALSE,Approved,Therapist,52603f4a638a3b8839e6d392c7589807
+{Therapist},{CA},{LMFT},FALSE,Approved,Therapist,5cec658db703b4a0247956cbbec084f1
+{Therapist},{FL},{LMHC},FALSE,Approved,Therapist,cd46fb5adbbec9547e8f6aaae09ae9ff
+{Therapist},{WI},{LMFT},FALSE,Approved,Therapist,2bc0810489485c8e2c5f8c4659041ad5
+{Therapist},{CA},{LCSW},FALSE,Approved,Therapist,1dd984d3940e1412c1d870d4841297f5
+{Therapist},"{CO,AZ}",{LMFT},FALSE,Pending,Therapist,fee9e8a3fc142a3ee3a997fca411951d
+{Therapist},"{IL,IA}",{LMFT},FALSE,Pending,Therapist,4473201335921f5014525d177ef758ea
+{Therapist},"{CA,OR}",{LMFT},FALSE,Approved,Therapist,637c3acac3621f0ddba8f89d40505268
+{},"{IL,NH,UT}",{LPCC},FALSE,Pending,Medication Management,3effa7db527783a248aebdf01a3d86e6
+{Therapist},{HI},{LMHC},FALSE,Approved,Therapist,743bada6c218f23ffbe94bab194245e0

@@ -1,0 +1,21 @@
+Variable,Definition
+customer_name,Hashed anonymized employer name of each member
+member_created,When the member was created in the platform
+member_user_state,Member state
+appointment_status,Status of appointment
+appointment_attended,Where appointment was attended
+appointment_kind,"Type of appointment (Care Navigation = CN, Therapy, Medication Management, Couples Therapy)"
+appointment_created,When member booked the appointment
+appointment_start_time,When appointment will or did occur
+appointment_medium,"Video, Phone, or in Person"
+basic_visits_covered,# of therapy covered
+specialist_visits_covered,# of speciality appointments covered
+provider_id_hashed,Hashed anonymized uuid for provider
+member_id_hashed,Hashed anonymized uuid for member
+roles,Provider role
+states,Where Providers can practice and are licensed
+license,Type of license of provider
+In_person_supported,Where provider is currently seeing patients in person
+status,Status of provider in system
+ther_v_mm,Whether provider provides therapy or medication management
+member_time_zone,Member time zone
